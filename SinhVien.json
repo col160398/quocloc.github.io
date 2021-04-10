@@ -1,0 +1,26 @@
+[
+    {
+        "ten":"Nguyen Quoc Loc",
+        "mssv":1714218,
+        "lop":"CTK41",
+        "tuoi":23,
+        "web":9,
+        "code":9,
+        "diaChi":{
+            "email":"1714218@dlu.edu.vn",
+            "phone": "0866079321"
+        }
+    },
+    {
+        "ten":"Nguyen Quoc Lac",
+        "mssv":1714218,
+        "lop":"CTK41",
+        "tuoi":23,
+        "web":8,
+        "code":8,
+        "diaChi":{
+            "email":"1714218@dlu.edu.vn",
+            "phone": "0363911874"
+        }
+    }
+]
